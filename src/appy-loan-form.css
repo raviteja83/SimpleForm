@@ -1,0 +1,10 @@
+.apply-loan-form {
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.1); }
+  .apply-loan-form__group {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    width: 250px;
+    margin: 0 auto; }

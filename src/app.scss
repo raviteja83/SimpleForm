@@ -1,0 +1,22 @@
+.table {
+    margin: 30px auto;
+
+    td {
+        padding: 10px 20px !important;
+    }
+
+    th {
+        padding: 5px 20px !important;
+    }
+}
+
+.content {
+    width: 60%;
+    margin: 0 auto;
+
+    &-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
